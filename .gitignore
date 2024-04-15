@@ -12,6 +12,7 @@ __pycache__/
 *.iws
 *.iml
 *.ipr
+*.xml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
