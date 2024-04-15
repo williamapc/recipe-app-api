@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 ### IntelliJ IDEA ###
-.idea
-inspectionProfiles/
+.idea/
+.idea/inspectionProfiles/
 *.iws
 *.iml
 *.ipr
